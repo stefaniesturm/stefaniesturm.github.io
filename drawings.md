@@ -6,10 +6,8 @@ permalink: /drawings/
 
 Here are some of my drawings.
 
-![Butch](/images/butch.jpg)
+![Butch](/images/butch.jpeg)
 
-![Party](/images/party.jpg)
+![Party](/images/party.jpeg)
 
-![Pasta](/images/pasta.jpg)
-
-![Photo by Lynn Sigel](/images/reading.jpg)
+![Pasta](/images/pasta.jpeg)
