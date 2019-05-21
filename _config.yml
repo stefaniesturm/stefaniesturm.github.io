@@ -1,6 +1,6 @@
 # Site settings
 title_left    : "Stefanie"
-title_right   : "Sturm" # default: ""
+title_right   : " Sturm" # default: ""
 description   : "Online CV and portfolio for academic work and other things."
 keywords      : ""
 url           : https://stefaniesturm.github.io # site url
