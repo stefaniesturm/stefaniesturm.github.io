@@ -1,10 +1,6 @@
 ---
-layout: photo_set
+layout: page
 title: Drawings
 permalink: /drawings/
-description: "Some drawings I made."
-
-photos:
-    set: drawings
-    size: 1
 ---
+

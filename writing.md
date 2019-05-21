@@ -24,10 +24,10 @@ I interviewed biolinguistics researcher and personal favourite professor Cedric 
 
 I was interviewed by <em>UniCross</em> and we talked about selfies and their role in modern life. This was in German. If you know German, you can read the interview <a href="https://www.unicross.uni-freiburg.de/2016/04/selbstdarstellung-im-netz/">here</a>.
 
-I have had the honour of being included twice in the 2016 spring and autumn issues of <em>The Freiburg Review</em>, a bilingual magazine for creative writing based in Freiburg. In spring they published my stort story "Bonkers", which is a story about about friendship, love, death and surreal things. The autumn issue had a theme, which was "Expats, Travellers and Migrants", and they included my short story "Take Me Home" – a story about strangers, sex and being lost. The magazine can be bought in different <a href="http://thefreiburgreview.weebly.com/purchasing.html" target="_blank" rel="noopener">bookstores </a>in Freiburg or online. Check out their <a href="http://thefreiburgreview.weebly.com/" target="_blank" rel="noopener">website</a>.
+I have had the honour of being included twice in the 2016 spring and autumn issues of <em>The Freiburg Review</em>, a bilingual magazine for creative writing based in Freiburg. In spring they published my stort story "Bonkers", which is a story about about friendship, love, death and surreal things. The autumn issue had a theme, which was "Expats, Travellers and Migrants", and they included my short story "Take Me Home" – a story about strangers, sex and being lost. The magazine can be bought in different <a href="http://thefreiburgreview.weebly.com/purchasing.html" target="_blank" rel="noopener">bookstores</a> in Freiburg or online. Check out their <a href="http://thefreiburgreview.weebly.com/" target="_blank" rel="noopener">website</a>.
 
 In 2016 I co-organised a regular reading event at my favourite bar in Freiburg (unfortunately it's closed now), Erika Bar. One night, I read 3 of my own texts. Here is a slideshow of photos of that evening, taken by Lynn Sigel. I drew the poster.
 
- 
+<img src="/images/drawings-1.jpg" alt="drawing" width="200"
+         height="80">
 
-[gallery ids="59,58,57,56,55,53,44" type="slideshow" orderby="rand"]
