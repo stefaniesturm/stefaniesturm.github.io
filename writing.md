@@ -26,7 +26,7 @@ I was interviewed by <em>UniCross</em> and we talked about selfies and their rol
 
 I have had the honour of being included twice in the 2016 spring and autumn issues of <em>The Freiburg Review</em>, a bilingual magazine for creative writing based in Freiburg. In spring they published my stort story "Bonkers", which is a story about about friendship, love, death and surreal things. The autumn issue had a theme, which was "Expats, Travellers and Migrants", and they included my short story "Take Me Home" – a story about strangers, sex and being lost. The magazine can be bought in different <a href="http://thefreiburgreview.weebly.com/purchasing.html" target="_blank" rel="noopener">bookstores</a> in Freiburg or online. Check out their <a href="http://thefreiburgreview.weebly.com/" target="_blank" rel="noopener">website</a>.
 
-In 2016 I co-organised a regular reading event at my favourite bar in Freiburg (unfortunately it's closed now), Erika Bar. One night, I read 3 of my own texts. Here is a slideshow of photos of that evening, taken by Lynn Sigel. I drew the poster.
+In 2016 I co-organised a regular reading event at my favourite bar in Freiburg (unfortunately it's closed now), Erika Bar. One night, I read 3 of my own texts. 
 
-![A test image](/images/drawings-1.jpg)
+![Photo by Lynn Sigel](/images/reading.jpg)
 
