@@ -2,9 +2,9 @@
 layout: photo_set
 title: Drawings
 permalink: /drawings/
-description: "An example photo gallery."
+description: "Some drawings I made."
 
 photos:
-    set: images
+    set: drawings
     size: 1
 ---
