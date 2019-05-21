@@ -1,3 +1,10 @@
+---
+layout: page
+title: Academic
+permalink: /academic/
+---
+
+
 <h2>Papers</h2>
 Zanella, M., Vitriolo, A., Andirko, A., Martins, P. T., Sturm, S., O’Rourke, T., Laugsch, M., Malerba, N., Skaros, A., Trattaro, S., Germain, P., Merla, G., Rada-Iglesias, A., Boeckx, C., & Testa, G. (2019). <em>7q11.23 Syndromes Reveal BAZ1B as a Master Regulator of the Modern Human Face and Validate the Self-Domestication Hypothesis.</em> Biorxiv. <a class="papercite_doi" title="View on publisher site" href="http://dx.doi.org/10.1101/570036">doi:10.1101/570036</a>
 <h2>Posters & Talks</h2>
