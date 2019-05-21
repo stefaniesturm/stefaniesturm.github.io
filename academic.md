@@ -4,6 +4,7 @@ title: Academic
 permalink: /academic/
 ---
 
+Mostly thanks to my involvement in the Cognitive Biology of Language Group, formerly known as "Biolinguistics Initiative Barcelona", I have had the chance to participate in a number of group projects. I have also presented some of my own solitary work at some conferences. Here is an overview over past and upcoming publications, presentations, and posters. 
 
 <h2>Papers</h2>
 Zanella, M., Vitriolo, A., Andirko, A., Martins, P. T., Sturm, S., O’Rourke, T., Laugsch, M., Malerba, N., Skaros, A., Trattaro, S., Germain, P., Merla, G., Rada-Iglesias, A., Boeckx, C., & Testa, G. (2019). <em>7q11.23 Syndromes Reveal BAZ1B as a Master Regulator of the Modern Human Face and Validate the Self-Domestication Hypothesis.</em> Biorxiv. <a class="papercite_doi" title="View on publisher site" href="http://dx.doi.org/10.1101/570036" target="_blank" rel="noopener noreferrer">doi:10.1101/570036</a>
