@@ -1,9 +1,10 @@
 ---
-layout: page
+layout: photo_set
 title: Drawings
 permalink: /drawings/
+description: "An example photo gallery."
+
+photos:
+    set: images
+    size: 1
 ---
-
-Some of my drawings for you to look at.
-
-[gallery ids="93,92,91" type="circle" link="file" orderby="rand"]
