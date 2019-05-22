@@ -6,29 +6,31 @@ permalink: /curriculum/
 
 <a title="Tabellarischer Lebenslauf" href="https://ss259.files.wordpress.com/2018/06/tabellarischer-lebenslauf.pdf">CV Deutsch (PDF)</a>        <a title="Stefanie Sturm CV English July 2018" href="https://ss259.files.wordpress.com/2018/06/stefanie-sturm-cv-english-july-2018.pdf">CV English (PDF)</a>
 <h2><strong>Education</strong></h2>
-<strong>2011 – 2015</strong>
 
-Bachelor of Arts at the University of Freiburg (Germany) in English and American studies with a focus on English linguistics, and a minor in Spanish literature and linguistics. Final project was a corpus-based error analysis study of English university students' German essay writing, supervised by Prof. Dr. Dr. h.c. Christian Mair.
+<strong>since 2018</strong>
 
-<strong>2014 – 2015 </strong>
-
-Erasmus exchange semester at the Universidad de Sevilla (Spain).
-
-<strong>2015</strong>
-
-Teacher training for German as a foreign language at the <a href="http://www.daf-lehrer.de">TTI</a> in Freiburg.
-
-<strong>2016 – 2017</strong>
-
-Master of Arts at the University of Barcelona (Spain) in cognitive science (CCiL), linguistics track. Final thesis was a review of correlations between genetic variation on the AVPR1a gene and behavioural variation in relation to social cognition, supervised by ICREA Research Professor Cedric Boeckx.
+PhD student at the University of Barcelona in the "Cognitive Biology of Language Group" supervised by Cedric Boeckx.
 
 <strong>2017 – 2018</strong>
 
 Master of Science "Brain and Cognition" at the Pompeu Fabra University in Barcelona. Final thesis was an EEG study investigating the event-related potentials of auditory rule learning, supervised by ICREA Research Professor Juan Manuel Toro Soto.
 
-<strong>since 2018</strong>
+<strong>2016 – 2017</strong>
 
-PhD student at the University of Barcelona in the "Cognitive Biology of Language Group" supervised by Cedric Boeckx.
+Master of Arts at the University of Barcelona (Spain) in cognitive science (CCiL), linguistics track. Final thesis was a review of correlations between genetic variation on the AVPR1a gene and behavioural variation in relation to social cognition, supervised by ICREA Research Professor Cedric Boeckx.
+
+<strong>2015</strong>
+
+Teacher training for German as a foreign language at the <a href="http://www.daf-lehrer.de">TTI</a> in Freiburg.
+
+<strong>2014 – 2015 </strong>
+
+Erasmus exchange semester at the Universidad de Sevilla (Spain).
+
+<strong>2011 – 2015</strong>
+
+Bachelor of Arts at the University of Freiburg (Germany) in English and American studies with a focus on English linguistics, and a minor in Spanish literature and linguistics. Final project was a corpus-based error analysis study of English university students' German essay writing, supervised by Prof. Dr. Dr. h.c. Christian Mair.
+
 <h2>Work</h2>
 <strong>2011</strong>
 
