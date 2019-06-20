@@ -11,6 +11,8 @@ Zanella, M., Vitriolo, A., Andirko, A., Martins, P. T., Sturm, S., O’Rourke, T
 <h2>Posters & Talks</h2>
 Sturm, S.; Boeckx, C. (2019). <em>Neurodevelopmental disorders as a window into language evolution</em>. Protolang 6. Lisbon, Portugal. September 9—12. (Talk)
 
+O'Rourke, T.; Andirkó, A.; Sturm, S.; Martins, P.T.; Moriano, J.; Silvente i Font, S.; Rumbo i Roig, M.; Boeckx, C. (2019). <em>Complex interactions among language subcomponents.</em> UBICS Day 2019, University of Barcelona, Spain, June 18. (Poster)
+
 Sturm, S.; de Toma, I.; Dierssen, M.; Boeckx, C. (2019). <a href="https://stefaniesturm.github.io/cerebellum_poster/" target="_blank" rel="noopener noreferrer">Down syndrome as a model condition for studying the role of the cerebellum in evolution of human cognition.</a> Trisomy 21 Research Society 3rd International Conference, Barcelona, Spain, June 6 – 9. (Poster)
 
 Sturm, S.; Torres, I.; Toro, J. M. (2019). <em>The effects of syllable structure changes on auditory rule learning.</em> XIV International Symposium of Psycholinguistics, Universitat Rovira i Virgili, Tarragona, Spain, April 10 – 13. (Poster)
