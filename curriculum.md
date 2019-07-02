@@ -4,7 +4,8 @@ title: Curriculum
 permalink: /curriculum/
 ---
 
-<a title="Tabellarischer Lebenslauf" href="https://ss259.files.wordpress.com/2018/06/tabellarischer-lebenslauf.pdf">CV Deutsch (PDF)</a>        <a title="Stefanie Sturm CV English July 2018" href="https://ss259.files.wordpress.com/2018/06/stefanie-sturm-cv-english-july-2018.pdf">CV English (PDF)</a>
+<a title="Download CV" href="/files/CV_stefanie_sturm_june2019.pdf">Download CV</a>
+
 <h2><strong>Education</strong></h2>
 
 <strong>since 2018</strong>
