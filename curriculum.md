@@ -4,7 +4,7 @@ title: Curriculum
 permalink: /curriculum/
 ---
 
-<a title="Download CV" href="/files/CV_stefanie_sturm_june2019.pdf">Download CV</a>
+<a title="Download CV" href="/files/CV_stefanie_sturm_september2019.pdf">Download CV</a>
 
 <h2><strong>Education</strong></h2>
 
