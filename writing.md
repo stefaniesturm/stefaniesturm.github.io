@@ -19,7 +19,7 @@ I contributed a piece to the "Is it publish or perish for PhD students?" collect
 
 <br>
 
-<a href="https://babelzine.co.uk" target="_blank" rel="noopener"><img style="width:50%" src="/images/schroedinger.HEIC" alt="The future of biology"></a>
+<a href="https://babelzine.co.uk" target="_blank" rel="noopener"><img style="width:50%" src="/images/schroedinger.jpg" alt="The future of biology"></a>
 
 A feature-length reflection on the struggles of studying the human mind from an interdisciplinary perspective written by me and my colleagues can be found in the February print issue of <em>Babel Magazine</em>. You can order the issue through their <a href="https://babelzine.co.uk" target="_blank" rel="noopener">website</a> (in English).
 
