@@ -10,6 +10,8 @@ Samples of my writing, some of the journalism type and some of the fiction type,
 
 <strong>2019</strong>
 
+<img style="width:30%" src="/images/race.jpg" alt="High-pressure science">
+
 I contributed a piece to the "Is it publish or perish for PhD students?" collection on the <em>Nature Human Behaviour</em> blog. Read my text "High Pressure Science" <a href="https://socialsciences.nature.com/channels/2140-is-it-publish-or-perish/posts/53696-test" target="_blank" rel="noopener">here</a>. 
 
 A feature-length reflection on the struggles of studying the human mind from an interdisciplinary perspective written by me and my colleagues can be found in the February print issue of <em>Babel Magazine</em>. You can order the issue through their <a href="https://babelzine.co.uk" target="_blank" rel="noopener">website</a> (in English).
