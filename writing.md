@@ -21,6 +21,9 @@ I contributed a piece to the "Is it publish or perish for PhD students?" collect
 
 <a href="https://babelzine.co.uk" target="_blank" rel="noopener"><img style="width:50%" src="/images/schroedinger.jpg" alt="The future of biology"></a>
 
+<img style="width:50%" src="/images/schroedinger.jpg" alt="The future of biology">
+
+
 A feature-length reflection on the struggles of studying the human mind from an interdisciplinary perspective written by me and my colleagues can be found in the February print issue of <em>Babel Magazine</em>. You can order the issue through their <a href="https://babelzine.co.uk" target="_blank" rel="noopener">website</a> (in English).
 
 <br>
@@ -31,7 +34,7 @@ My colleagues and I published a report on the 75th anniversary conference of the
 
 <strong>2017</strong>
 
-I interviewed biolinguistics researcher and personal favourite professor Cedric Boeckx for <em>Babel Magazine. </em>We had a nice chat about evolution, language and why we can learn something about the human brain by looking at birds and monkeys. You can buy the issue (and any other issue) on their <a href="http://www.babelzine.com" target="_blank" rel="noopener">website</a>. You can read the interview <a href="http://ow.ly/nfrN30br1dJ" target="_blank" rel="noopener">online</a> though.
+I interviewed biolinguistics researcher Cedric Boeckx for <em>Babel Magazine. </em>We had a nice chat about evolution, language and why we can learn something about the human brain by looking at birds and monkeys. You can buy the issue (and any other issue) on their <a href="http://www.babelzine.com" target="_blank" rel="noopener">website</a>. You can read the interview <a href="http://ow.ly/nfrN30br1dJ" target="_blank" rel="noopener">online</a> though.
 
 <strong>2016</strong>
 
