@@ -8,14 +8,18 @@ Since 2012, I have been contributing as a freelance writer to various English an
 
 Samples of my writing, some of the journalism type and some of the fiction type, some in German and some in English, can be found here.
 
+<br>
+
 <strong>2019</strong>
 
 
-<a href="https://socialsciences.nature.com/channels/2140-is-it-publish-or-perish/posts/53696-test" target="_blank" rel="noopener"><img style="width:50%" src="/images/race.jpg" alt="High-pressure science" class="center"></a>
+<a href="https://socialsciences.nature.com/channels/2140-is-it-publish-or-perish/posts/53696-test" target="_blank" rel="noopener"><img style="width:50%" src="/images/race.jpg" alt="High-pressure science"></a>
 
 I contributed a piece to the "Is it publish or perish for PhD students?" collection on the <em>Nature Human Behaviour</em> blog. Read my text "High Pressure Science" <a href="https://socialsciences.nature.com/channels/2140-is-it-publish-or-perish/posts/53696-test" target="_blank" rel="noopener">here</a>. 
 
 <br>
+
+<a href="https://babelzine.co.uk" target="_blank" rel="noopener"><img style="width:50%" src="/images/schroedinger.HEIC" alt="The future of biology"></a>
 
 A feature-length reflection on the struggles of studying the human mind from an interdisciplinary perspective written by me and my colleagues can be found in the February print issue of <em>Babel Magazine</em>. You can order the issue through their <a href="https://babelzine.co.uk" target="_blank" rel="noopener">website</a> (in English).
 
