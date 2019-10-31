@@ -23,6 +23,8 @@ I contributed a piece to the "Is it publish or perish for PhD students?" collect
 
 A feature-length reflection on the struggles of studying the human mind from an interdisciplinary perspective written by me and my colleagues can be found in the February print issue of <em>Babel Magazine</em>. You can order the issue through their <a href="https://babelzine.co.uk" target="_blank" rel="noopener">website</a> (in English).
 
+<br>
+
 <strong>2018</strong>
 
 My colleagues and I published a report on the 75th anniversary conference of the famous "What is life?" lecture series by Erwin Schrödinger. The article was originally published in <em>The Conversation Spain</em> but was re-published in <em>El País</em>. The article can be read (in Spanish) <a href="https://theconversation.com/que-es-la-vida-el-futuro-de-la-biologia-75-anos-despues-de-schrodinger-103399" target="_blank" rel="noopener">here</a> and <a href="https://elpais.com/elpais/2018/10/08/ciencia/1538989070_999452.html" target="_blank" rel="noopener">here</a>.
