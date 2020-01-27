@@ -33,38 +33,37 @@ Erasmus exchange semester at the Universidad de Sevilla (Spain).
 Bachelor of Arts at the University of Freiburg (Germany) in English and American studies with a focus on English linguistics, and a minor in Spanish literature and linguistics. Final project was a corpus-based error analysis study of English university students' German essay writing, supervised by Prof. Dr. Dr. h.c. Christian Mair.
 
 <h2>Work</h2>
-<strong>2011</strong>
 
-Intern at Funkhaus Aschaffenburg (Germany), a local media production company for TV, radio and print media.
+<strong>2018 - 2019</strong>
 
-<strong>2012 – 2015 </strong>
-
-Freelance contributing editor at <a href="http://www.fudder.de">fudder.de</a>, an online magazine based in Freiburg (Germany) for local culture, politics, and events.
-
-<strong>2012 – 2014</strong>
-
-Content editor at Learn English Online, a website (based in Freiburg) providing online language learning resources.
-
-<strong>2013 – 2014 </strong>
-
-Co-presenter of <em>Studio Vier</em>, a radio show about student life and culture by <em>Radio Dreyeckland</em> (Freiburg).
-
-<strong>2014</strong>
-
-Regular contributing editor at <em>Die Trendblogger</em>, a curated online blog project by <a href="https://www.miz-babelsberg.de">MIZ Babelsberg</a> based in Berlin.
-
-<strong>2015 – 2016</strong>
-
-German teacher at <a href="http://www.mitte.es" target="_blank" rel="noopener">Mitte</a>, a private language school located in Zaragoza (Spain), teaching children and adults.
-
-<strong>2016 – 2017</strong>
-
-German teacher at <a href="http://www.abchumboldt.com" target="_blank" rel="noopener">ABCHumboldt</a>, a private language school in Barcelona, teaching teenagers, adults and company classes.
+Research assistant at the <a href="http://ubics.ub.edu" target="_blank" rel="noopener">University of Barcelona Institute for Complex Systems</a> in the group of Dr. Cedric Boeckx working on topics related to the globularisation of the human skull and its cognitive implications.
 
 <strong>2017 – 2018 </strong>
 
 Natural Language Processing (NLP) specialist at <a href="https://www.yukkalab.com">YUKKA Lab</a> (based in Berlin), a FinTech startup that works on sentiment processing algorithms to predict trends on the financial market.
 
-<strong>since 2018</strong>
+<strong>2016 – 2017</strong>
 
-Research assistant at the <a href="http://ubics.ub.edu" target="_blank" rel="noopener">University of Barcelona Institute for Complex Systems</a> in the group of Dr. Cedric Boeckx working on topics related to the globularisation of the human skull and its cognitive implications.
+German teacher at <a href="http://www.abchumboldt.com" target="_blank" rel="noopener">ABCHumboldt</a>, a private language school in Barcelona, teaching teenagers, adults and company classes.
+
+<strong>2014</strong>
+
+Regular contributing editor at <em>Die Trendblogger</em>, a curated online blog project by <a href="https://www.miz-babelsberg.de">MIZ Babelsberg</a> based in Berlin.
+
+Intern of product management at PLANarama, London.
+
+<strong>2013 – 2014 </strong>
+
+Co-presenter of <em>Studio Vier</em>, a radio show about student life and culture by <em>Radio Dreyeckland</em> (Freiburg).
+
+<strong>2012 – 2014</strong>
+
+Content editor at Learn English Online, a website (based in Freiburg) providing online language learning resources.
+
+<strong>2012 – 2015 </strong>
+
+Freelance contributing editor at <a href="http://www.fudder.de">fudder.de</a>, an online magazine based in Freiburg (Germany) for local culture, politics, and events.
+
+<strong>2011</strong>
+
+Intern at Funkhaus Aschaffenburg (Germany), a local media production company for TV, radio and print media.
