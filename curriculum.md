@@ -46,6 +46,10 @@ Natural Language Processing (NLP) specialist at <a href="https://www.yukkalab.c
 
 German teacher at <a href="http://www.abchumboldt.com" target="_blank" rel="noopener">ABCHumboldt</a>, a private language school in Barcelona, teaching teenagers, adults and company classes.
 
+<strong>2015 – 2016</strong>
+
+German teacher at Mitte., a private language school for students of all ages in Zaragoza, Spain. 
+
 <strong>2014</strong>
 
 Regular contributing editor at <em>Die Trendblogger</em>, a curated online blog project by <a href="https://www.miz-babelsberg.de">MIZ Babelsberg</a> based in Berlin.
