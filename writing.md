@@ -10,6 +10,16 @@ Samples of my writing, some of the journalism type and some of the fiction type,
 
 <br>
 
+<strong>2020</strong>
+
+<a href="https://www.nationalelfservice.net/mental-health/psychosis/symptom-based-diagnosis-psychotic-spectrum-disorders/" target="_blank" rel="noopener">Towards a symptom-based diagnosis of psychotic spectrum disorders?</a>
+
+I started as a science communication blogger as part of <a href="https://www.nationalelfservice.net/mental-health/" target="_blank" rel="noopener">The Mental Elf</a>, a website that provides accessible yet scientifically accurate summaries of recent findings related to topics of mental health. My first contribution was about a very interesting, methodologically complex study on diagnosing patients with psychosis in new ways which may enable us to look beyond traditional diagnostic categories. Read the article <a href="https://www.nationalelfservice.net/mental-health/psychosis/symptom-based-diagnosis-psychotic-spectrum-disorders/" target="_blank" rel="noopener">here/a>.
+  
+<a href="https://www.nationalelfservice.net/mental-health/psychosis/symptom-based-diagnosis-psychotic-spectrum-disorders/" target="_blank" rel="noopener"><img style="width:50%" src="/images/colours.jpg" alt="Continuum of psychosis"></a>
+
+<br>
+
 <strong>2019</strong>
 
 <a href="https://socialsciences.nature.com/channels/2140-is-it-publish-or-perish/posts/53696-test" target="_blank" rel="noopener">High Pressure Science</a>
