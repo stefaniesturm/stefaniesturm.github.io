@@ -72,7 +72,7 @@ I have had the honour of being included twice in the 2016 spring and autumn issu
 
 <br>
 
-<strong>Erika reads</strong>
+<strong>Erika liest // Erika reads</strong>
 
 In 2016 I co-organised a regular reading event at my favourite bar in Freiburg (unfortunately it's closed now), Erika Bar. One night, I read 3 of my own texts. 
 
