@@ -4,7 +4,7 @@ title: Writing
 permalink: /writing/
 ---
 
-Since 2012, I have been contributing as a freelance writer to various English and German speaking media platforms, for example fudder.de, PluckMagazine and the MIZ Babelsberg. I have also been involved in publications and projects related to fiction writing.
+I have been contributing to a number of differet media outlets and I've also worked on some fictional stories. 
 
 Samples of my writing, some of the journalism type and some of the fiction type, some in German and some in English, can be found here.
 
