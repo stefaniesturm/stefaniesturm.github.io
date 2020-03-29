@@ -42,7 +42,7 @@ A feature-length reflection on the struggles of studying the human mind from an 
 
 <strong>2018</strong>
 
-<a href="https://theconversation.com/que-es-la-vida-el-futuro-de-la-biologia-75-anos-despues-de-schrodinger-103399" target="_blank" rel="noopener">Qué es la vida?</a>  
+<a href="https://theconversation.com/que-es-la-vida-el-futuro-de-la-biologia-75-anos-despues-de-schrodinger-103399" target="_blank" rel="noopener">¿Qué es la vida? // What is life?</a>  
 
 My colleagues and I published a report on the 75th anniversary conference of the famous "What is life?" lecture series by Erwin Schrödinger. The article was originally published in <em>The Conversation Spain</em> but was re-published in <em>El País</em>. The article can be read (in Spanish) <a href="https://theconversation.com/que-es-la-vida-el-futuro-de-la-biologia-75-anos-despues-de-schrodinger-103399" target="_blank" rel="noopener">here</a> and <a href="https://elpais.com/elpais/2018/10/08/ciencia/1538989070_999452.html" target="_blank" rel="noopener">here</a>.
 
