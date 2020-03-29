@@ -4,7 +4,9 @@ title: Writing
 permalink: /writing/
 ---
 
-I have been contributing to a number of differet media outlets and I've also worked on some fictional stories. 
+I have contributed to a number of differet media outlets and I've also worked on some fictional stories. 
+
+I like to write about "science", but also music, cultural events, or other random things that I may or may not be qualified to write about. 
 
 Samples of my writing, some of the journalism type and some of the fiction type, some in German and some in English, can be found here.
 
