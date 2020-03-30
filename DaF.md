@@ -10,5 +10,7 @@ I am also a teacher of German as a foreign language // Deutsch als Fremdsprache 
  
  ## Das ultimative Fälle-Quiz 
  
-Practise distinguishing between subject, direct and indirect object, and learn which case to use for what. This is very important if you want to eventually get the adjectives right. 
+Practise distinguishing between subject, direct and indirect object, and learn which case to use for what. This is very important if you want to eventually get the adjectives right. This is to be played with several people, but you can also do it by yourself.
+
+<a href="https://create.kahoot.it/share/das-ultimative-falle-quiz/930321ed-d66e-4ead-a8cc-5dbc2810412b" target="_blank" rel="noopener">Link to the quiz (Kahoot)</a>
 
