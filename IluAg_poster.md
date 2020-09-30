@@ -6,11 +6,15 @@ permalink: /IluAg_poster/
 
 IN PROGRESS
 
-<a title="poster" href="/files/developmental_cb_poster.pdf">Illusionary Sense of Agency in Auditory Processing: EEG Correlates of Predictions, Errors and Illusions</a>
+<a title="poster" href="/files/IluAg_poster.pdf">Illusionary Sense of Agency in Auditory Processing: EEG Correlates of Predictions, Errors and Illusions</a>
 
 <h2>References</h2>
 
-Barthelery, N. J., & Manfredi, J. J. (2016). Cerebellum Development and Tumorigenesis: a p53-centric Perspective. Trends in Molecular Medicine, 22(5), 404–413. https://doi.org/10.1016/j.molmed.2016.03.006
+Daprati, E., Franck, N., Georgieff, N., Proust, J., Pacherie, E., Dalery, J., & Jeannerod, M. (1997). Looking for the agent: an investigation into consciousness of action and self-consciousness in schizophrenic patients. Cognition, 65(1), 71-86.
 
-Barton, R. A., & Venditti, C. (2014). Rapid evolution of the cerebellum in humans and other great apes. Current Biology: CB, 24(20), 2440–2444. https://doi.org/10.1016/j.cub.2014.08.056
+Gallagher, S. (2000). Philosophical conceptions of the self: Implications for cognitive science. Trends in Cognitive Sciences, 4(1), 14-21. http://dx.doi.org/10.1016/S1364-6613(99)01417-5.
 
+
+Synofzik, M., Vosgerau, G., & Newen, A. (2008). Beyond the comparator model: a multifactorial two-step account of agency. Consciousness and Cognition, 17(1), 219-239. http://dx.doi.org/10.1016/j.concog.2007.03.010.
+
+Timm, J., Schönwiesner, M., Schröger, E., & SanMiguel, I. (2016). Sensory suppression of brain responses to self-generated sounds is observed with and without the perception of agency. Cortex, 80, 5-20. http://dx.doi.org/10.1016/j.cortex.2016.03.018.
