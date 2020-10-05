@@ -12,6 +12,8 @@ Zanella, M., Vitriolo, A., Andirko, A., Martins, P. T., Sturm, S., O’Rourke, T
 
 <h2>Posters & Talks</h2>
 
+Sturm, S.; SanMiguel, I. (2020). Illusionary Sense of Agency in Auditory Processing: EEG Correlates of Predictions, Errors and Illusions. LiveMEEG – Conference on good scientific practices. Cutting EEG Association. Online. October 5-9. (Poster)
+
 Sturm, S.; SanMiguel, I. (2020). Cerebellar forward models and their role in auditory processing. Evolang 13. Vrije Universiteit Brussels, Belgium. March 14-17. (Poster) *CANCELLED*
 
 Sturm, S.; Boeckx, C. (2019). <em>Neurodevelopmental disorders as a window into language evolution</em>. Protolang 6. Lisbon, Portugal. September 9—12. (Talk)
