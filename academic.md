@@ -4,7 +4,7 @@ title: Academic
 permalink: /academic/
 ---
 
-Mostly thanks to my involvement in the Cognitive Biology of Language Group, formerly known as "Biolinguistics Initiative Barcelona", I have had the chance to participate in a number of group projects. I have also presented some of my own solitary work at some conferences. Here is an overview over past and upcoming publications, presentations, and posters. 
+Thanks to my participation in different research groups over the course of my studies so far, I have had the chance to be involved in different research projects, which have led to a number of posters, presentations and 1 publication (one day, there will be more, I hope!). 
 
 <h2>Papers</h2>
 
