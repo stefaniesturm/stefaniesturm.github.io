@@ -8,7 +8,11 @@ permalink: /curriculum/
 
 <h2><strong>Education</strong></h2>
 
-<strong>since 2018</strong>
+<strong>since 2019</strong>
+
+PhD student at the  <a href="http://www.ub.edu/brainlab/" target="_blank">Brainlab – Cognitive Neuroscience Research Group</a> at the Deparartment of Clinical Psychology and Psychobiology, University of Barcelona. My PhD research is supervised by Jordi Costa-Faidella and Iria SanMiguel. 
+
+<strong>2018 - 2019</strong>
 
 PhD student at the University of Barcelona in the "Cognitive Biology of Language Group" supervised by Cedric Boeckx.
 
