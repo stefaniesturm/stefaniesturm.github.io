@@ -18,8 +18,9 @@ Samples of my writing, some of the journalism type and some of the fiction type,
 
 For <a href="https://www.nationalelfservice.net/mental-health/" target="_blank" rel="noopener">The Mental Elf</a>, I summarised a recent systematic review on improving cognitive deficits in schizophrenia using Transcranial Direct Current Stimulation (tDCS), a form of electrical brain stimulation. 
   
-<a href="https://www.nationalelfservice.net/mental-health/schizophrenia/can-we-treat-cognitive-deficits-in-schizophrenia-through-electrical-brain-stimulation/" target="_blank" rel="noopener"><img style="width:50%" src="/images/skull.jpg" alt="Treating cognitive deficits in schizophrenia"></a>
 
+<a href="https://www.nationalelfservice.net/mental-health/schizophrenia/can-we-treat-cognitive-deficits-in-schizophrenia-through-electrical-brain-stimulation/" target="_blank" rel="noopener"><img style="width:50%" src="/images/skull.jpg" alt="Treating cognitive deficits in schizophrenia"></a>  
+  
 <br>
 
 <a href="https://www.nationalelfservice.net/mental-health/psychosis/symptom-based-diagnosis-psychotic-spectrum-disorders/" target="_blank" rel="noopener">Towards a symptom-based diagnosis of psychotic spectrum disorders?</a>
