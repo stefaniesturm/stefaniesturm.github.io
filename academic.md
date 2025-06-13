@@ -4,13 +4,28 @@ title: Academic
 permalink: /academic/
 ---
 
-Thanks to my participation in different research groups over the course of my studies so far, I have had the chance to be involved in different research projects, which have led to a number of posters, presentations and 1 publication (one day, there will be more, I hope!). 
+Thanks to my participation in different research groups over the course of my studies so far, I have had the chance to be involved in different research projects, which have led to a number of posters, presentations and publications (more to come soon).
 
 <h2>Papers</h2>
+
+Sturm, S., Costa‐Faidella, J., & SanMiguel, I. (2023). Neural signatures of memory gain through active exploration in an oculomotor‐auditory learning task. Psychophysiology, 60(10), e14337.
 
 Zanella, M., Vitriolo, A., Andirko, A., Martins, P. T., Sturm, S., O’Rourke, T., ... & Testa, G. (2019). Dosage analysis of the 7q11. 23 Williams region identifies BAZ1B as a major human gene patterning the modern human face and underlying self-domestication. Science Advances, 5(12), eaaw7908.
 
 <h2>Posters & Talks</h2>
+
+Sturm, S., Salgado, C., Via, M., SanMiguel, I. (2025). Auditory self-generation effects depend on sound intensity both at the neural and perceptual level. 22nd World Congress of Psychophysiology (IOP). Jagiellonian University Krakow, Poland. July 6-11. (Poster)
+
+Sturm, S., Costa-Faidella, J. & SanMiguel, I. (2022). Neural signatures of memory gain through active exploration in an oculomotor-auditory learning task. International Multi-Brain Barcelona Congress – Healthy, Pathological and Artificial Brain. University of Barcelona, Spain. November 9-10. (Poster)  
+  
+Sturm, S., Costa-Faidella, J. & SanMiguel, I. (2022). Active learning improves memory and differentially affects neural responses. International Conference of Cognitive Neuroscience (ICON). University of Helsinki, Finland. May 18-22. (Poster)  
+  
+Sturm, S. & SanMiguel, I. (2021). Electrophysiological Markers of the Sense of Agency: Contributions of Temporal Proximity, Temporal Order and Action-Effect Congruency. Society for Psychophysiological Research (SPR) Annual Meeting. Virtual Conference. October 13-16. (Poster)  
+  
+Sturm, S. & SanMiguel, I. (2021). Electrophysiological Markers of the Sense of Agency: Contributions of Temporal Proximity, Temporal Order and Action-Effect Congruency. 20th World Congress of Psychophysiology. Virtual Conference. September 7-11. (Talk)  
+  
+Sturm, S. (2021). Prediction and memory processes in motor-sensory interactions. Women in Neuroscience – Symposium. University of Barcelona, Spain. Virtual conference. February 11. (Talk)  
+Sturm, S., SanMiguel, I. (2020). Illusionary Sense of Agency in Auditory Processing: EEG Correlates of Predictions, Errors and Illusions. LiveMEEG – Conference on good scientific practices. Cutting EEG Association. Online. October 5-9. (Poster)
 
 Sturm, S., SanMiguel, I. (2020). Illusionary Sense of Agency in Auditory Processing: EEG Correlates of Predictions, Errors and Illusions. LiveMEEG – Conference on good scientific practices. Cutting EEG Association. Online. October 5-9. (Poster)
 
